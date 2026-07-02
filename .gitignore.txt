@@ -1,0 +1,15 @@
+# STM32CubeIDE / Eclipse build outputs
+Debug/
+Release/
+
+# Toolchain generated files
+*.elf
+*.list
+*.map
+*.o
+*.su
+*.d
+
+# Local IDE configuration (avoids breaking paths on different machines)
+.settings/
+.mcppoc
