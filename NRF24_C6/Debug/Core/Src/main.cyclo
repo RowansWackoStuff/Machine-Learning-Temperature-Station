@@ -1,0 +1,17 @@
+../Core/Src/main.c:67:1:__io_putchar	1
+../Core/Src/main.c:74:13:print_telemetry	3
+../Core/Src/main.c:88:6:AHT_Init	1
+../Core/Src/main.c:96:6:AHT_Read	3
+../Core/Src/main.c:122:6:NRF24_WriteRegister	1
+../Core/Src/main.c:132:6:NRF24_WriteRegisterBuf	1
+../Core/Src/main.c:140:6:NRF24_FlushTX	1
+../Core/Src/main.c:147:9:NRF24_ReadRegister	1
+../Core/Src/main.c:160:6:NRF24_Init	1
+../Core/Src/main.c:181:6:NRF24_TransmitPacket	1
+../Core/Src/main.c:202:5:main	1
+../Core/Src/main.c:259:6:SystemClock_Config	3
+../Core/Src/main.c:289:13:MX_I2C1_Init	2
+../Core/Src/main.c:306:13:MX_SPI1_Init	2
+../Core/Src/main.c:326:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:342:13:MX_GPIO_Init	1
+../Core/Src/main.c:367:6:Error_Handler	1
